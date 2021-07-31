@@ -6,7 +6,7 @@
 ### <div align="center">I'm Zaid, a student and interested in Front-end Development.</div>  
   
 
-- 🔭 I’m currently working on [Bitcoin-Ticker](https://github.com/abu-zaid/Bitcoin-Ticker)  
+- 🔭 I’m currently working on [Bitcoin-Ticker](https://github.com/abu-zaid/Bitcoin_Ticker)  
   
 
 - 🌱 I’m currently learning Flutter  
